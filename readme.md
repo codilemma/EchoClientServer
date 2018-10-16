@@ -1,5 +1,3 @@
-# GIOS - FALL - 2018 - PR1
-
 ## Echo Client-Server
 
   A simple echo client-server was designed using sockets.  Sockets are an abstraction through which an application may recieve and send data.  The socket is the endpoint for communication. A pair of processes (client & server) typically employ a pair of sockets to communicate over a network.
